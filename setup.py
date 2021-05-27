@@ -10,8 +10,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/supraaxdd/truckersmp-api",
-    author="Itz Blinkzy; supraaxdd",
-    author_email="legendarystone12@gmail.com; supra6950@gmail.com",
+    author="Itz Blinkzy, supraaxdd",
+    author_email="legendarystone12@gmail.com, supra6950@gmail.com",
     license="GNU",
     classifiers=[
         "Programming Language :: Python :: 3",
