@@ -5,11 +5,11 @@ This repository hosts the code of the TruckersMP API Wrapper, written in Python.
 
 # Table of contents
 
-- [Installation and setup](https://github.com/supraaxdd/flightline-community-bot/#installation-and-setup)
-- [Usage](https://github.com/supraaxdd/flightline-community-bot/#usage)
-- [Support](https://github.com/supraaxdd/flightline-community-bot/#support)
-- [Contributing](https://github.com/supraaxdd/flightline-community-bot/#contributing)
-- [Acknowledgements](https://github.com/supraaxdd/flightline-community-bot/#acknowledgements)
+- [Installation and setup](https://github.com/supraaxdd/truckersmp-api/#installation-and-setup)
+- [Usage](https://github.com/supraaxdd/truckersmp-api/#usage)
+- [Support](https://github.com/supraaxdd/truckersmp-api/#support)
+- [Contributing](https://github.com/supraaxdd/truckersmp-api/#contributing)
+- [Acknowledgements](https://github.com/supraaxdd/truckersmp-api/#acknowledgements)
 
 ## Installation and setup
 
