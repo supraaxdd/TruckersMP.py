@@ -1,4 +1,4 @@
-# truckersmp-api
+# TruckersMP.py
 
 This repository hosts the code of the TruckersMP API Wrapper, written in Python.
 * Most of the API endpoints available are able to be called via a function
