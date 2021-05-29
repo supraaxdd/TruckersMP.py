@@ -1,15 +1,15 @@
-# truckersmp-api
+# TruckersMP.py
 
 This repository hosts the code of the TruckersMP API Wrapper, written in Python.
 * Most of the API endpoints available are able to be called via a function
 
 # Table of contents
 
-- [Installation and setup](https://github.com/supraaxdd/truckersmp-api/#installation-and-setup)
-- [Usage](https://github.com/supraaxdd/truckersmp-api/#usage)
-- [Support](https://github.com/supraaxdd/truckersmp-api/#support)
-- [Contributing](https://github.com/supraaxdd/truckersmp-api/#contributing)
-- [Acknowledgements](https://github.com/supraaxdd/truckersmp-api/#acknowledgements)
+- [Installation and setup](https://github.com/supraaxdd/TruckersMP.py/#installation-and-setup)
+- [Usage](https://github.com/supraaxdd/TruckersMP.py/#usage)
+- [Support](https://github.com/supraaxdd/TruckersMP.py/#support)
+- [Contributing](https://github.com/supraaxdd/TruckersMP.py/#contributing)
+- [Acknowledgements](https://github.com/supraaxdd/TruckersMP.py/#acknowledgements)
 
 ## Installation and setup
 
@@ -17,11 +17,11 @@ This repository hosts the code of the TruckersMP API Wrapper, written in Python.
 
 You can install this module via github or PyPI:
 ```bash
-$ pip install git+https://github.com/supraaxdd/truckersmp-api.git
+$ pip install git+https://github.com/supraaxdd/TruckersMP.py.git
 ```
 
 ```bash
-$ pip install truckersmp-api
+$ pip install TruckersMP.py
 ```
 ## Usage
 
@@ -70,7 +70,7 @@ If you need help with anything, you should preferably contact Supra#6561 or Blin
 1. Feel free to Fork & Clone the repository and make sure that it is on the __master branch__ as that branch is the most up to date one and the most stable.
 2. Run `npm install` in the project folder.
 3. Make the changes that you want to propose and code whatever you want!
-4. Make sure that everything is good shape and then feel free to create a [Pull Request](https://github.com/supraaxdd/truckersmp-api/compare) which will be reviewed.
+4. Make sure that everything is good shape and then feel free to create a [Pull Request](https://github.com/supraaxdd/TruckersMP.py/compare) which will be reviewed.
 
 ## Acknowledgements
 

@@ -21,4 +21,13 @@ class RateLimitError(BaseExceptions):
         
         
     def __str__(self) -> str:
-        return self.message       
+        return self.message
+
+class NotFoundError(BaseExceptions):
+    def __init__(self):
+        self.message = "Error: Data not found. Are all arguments correct? If not, the page may not exist."
+        super().__init__()
+        
+        
+    def __str__(self) -> str:
+        return self.message

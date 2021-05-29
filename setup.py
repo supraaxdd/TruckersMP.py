@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="truckersmp-api",
+    name="truckersmp.py",
     version="1.0.0.1",
     description="Simple API Wrapper for the TruckersMP API",
     long_description=long_description,

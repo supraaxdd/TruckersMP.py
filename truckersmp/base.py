@@ -1,7 +1,7 @@
 from typing import Union
 import urllib3
 import json
-from .baseExceptions import ConnectionError, RateLimitError
+from .baseExceptions import ConnectionError, NotFoundError, RateLimitError
 
 http = urllib3.PoolManager()
 
@@ -10,8 +10,10 @@ class TruckersMP:
         self._root_url = "https://api.truckersmp.com/v2"
 
     def __checkError(self, errorCode) -> Union[bool, Exception]:
-        if errorCode in [400, 401, 403, 404, 502, 503, 504]:
+        if errorCode in [400, 401, 403, 502, 503, 504]:
             raise ConnectionError()
+        elif errorCode == 404:
+            raise NotFoundError()
         elif errorCode == 429:
             raise RateLimitError()
 
