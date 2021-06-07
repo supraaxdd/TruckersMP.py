@@ -68,9 +68,8 @@ If you need help with anything, you should preferably contact Supra#6561 or Blin
 ## Contributing
 
 1. Feel free to Fork & Clone the repository and make sure that it is on the __master branch__ as that branch is the most up to date one and the most stable.
-2. Run `npm install` in the project folder.
-3. Make the changes that you want to propose and code whatever you want!
-4. Make sure that everything is good shape and then feel free to create a [Pull Request](https://github.com/supraaxdd/TruckersMP.py/compare) which will be reviewed.
+2. Make the changes that you want to propose and code whatever you want!
+3. Make sure that everything is good shape and then feel free to create a [Pull Request](https://github.com/supraaxdd/TruckersMP.py/compare) which will be reviewed.
 
 ## Acknowledgements
 
